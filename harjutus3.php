@@ -13,8 +13,6 @@
 // Harjutus 3
 // Tristan Juapuu
 // 13.06.2025
-//S = (a * b) /2 *h
-//P = 4a
 ?>
 <h2>Trapets</h2>
 <form method="get">
